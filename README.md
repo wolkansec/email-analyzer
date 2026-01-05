@@ -2,6 +2,9 @@
 
 `.eml` formatındaki şüpheli e-postaları analiz eden ve analistler için kullanışlı **HTML raporları** üreten bir Python aracıdır.
 
+![Resim1]([https://example.com/logo.png](https://raw.githubusercontent.com/wolkansec/email-analyzer/refs/heads/main/1.PNG))
+![Resim2]([https://example.com/logo.png](https://raw.githubusercontent.com/wolkansec/email-analyzer/refs/heads/main/2.PNG))
+![Resim3]([https://example.com/logo.png](https://raw.githubusercontent.com/wolkansec/email-analyzer/refs/heads/main/3.PNG))
 
 ## Özellikler
 
