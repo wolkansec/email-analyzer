@@ -3,11 +3,7 @@ import email
 from email import policy
 from email.parser import BytesParser
 
-# ====== PhishGuard Pro: analyzer.py (Skeleton) ======
-# \u25b6 Her analiz adımı için fonksiyonel, modüler yapı
-# \u25b6 Detaylar "memory-bank.md" gereksinimlerine uygun
 
-# --- Header Analiz Fonksiyonları ---
 def parse_eml(file_path):
     """
     .eml dosyasını okur ve email.message.EmailMessage nesnesi döner.
@@ -587,3 +583,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
